@@ -8,7 +8,7 @@ from datetime import datetime
 # Ganti dengan data Anda nanti saat deployment
 TELEGRAM_TOKEN = "8241929211:AAGEUBrBFIgPuW-9785z3cYLN6WJwVien0g"
 CHAT_ID = "7025145364"
-WEBHOOK_SECRET = "rahasia123" # Password agar orang lain tidak bisa spam webhook Anda
+WEBHOOK_SECRET = "canislupusfamiliaris" 
 
 app = FastAPI()
 
